@@ -1,7 +1,7 @@
 # Project README
 
 ## YT References
-- [YouTube Reference Video](https://www.youtube.com/watch?v=_CPJoDdniB8)
+- [YouTube Reference Video](https://www.youtube.com/watch?v=_CPJoDdniB8) 
 
 ---
 
@@ -23,8 +23,6 @@
 ## References
 
 - [YouTube Reference Video](https://www.youtube.com/watch?v=_CPJoDdniB8)
-- [Other Relevant Papers/Articles](#)
-- [Code Examples/Repositories](#)
 
 ---
 
@@ -43,5 +41,4 @@
 ---
 
 ## Notes
-- Adjust timelines and tasks based on progress.
-- Additional tasks and references may be added as the project evolves.
+- I would start after MSE
