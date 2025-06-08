@@ -5,18 +5,19 @@
 
 ---
 
-## Tentative Plan
+## 📅 Tentative Plan
 
-### Research and Development Timeline
+### 🧪 Research and Development Timeline
 
-| Phase                   | Start Date   | End Date     | Description                                                                 |
-|-------------------------|--------------|--------------|-----------------------------------------------------------------------------|
-| **Research**             | March        | March        | Initial research phase, gathering ideas, references, and relevant information. |
-| **Data Gathering**      | April        | April        | Collect relevant data for the algorithm, identify datasets, and preprocess.  |
-| **Algorithm Finalization & Approach** | April        | April        | Finalize the algorithm and approach for the project.                        |
-| **Implementation**      | March        | June         | Start implementation in March and aim to complete by June.                   |
-| **Testing & Validation**| June         | June         | Test the implementation, ensure its correctness, and validate results.      |
-| **Documentation**       | June         | June         | Write final documentation and prepare for deployment.                       |
+| Phase                             | Start Date   | End Date     | Description                                                                 |
+|-----------------------------------|--------------|--------------|-----------------------------------------------------------------------------|
+| ✅ **Research**                   | March 2025   | March 2025   | Initial research phase, gathering ideas, references, and relevant information. |
+| ✅ **Data Gathering**            | April 2025   | April 2025   | Collect relevant data for the algorithm, identify datasets, and preprocess.  |
+| ✅ **Algorithm Finalization**    | May 2025     | May 2025     | Finalize the algorithm and approach for the project.                        |
+| 🚀 **Implementation**            | June 8, 2025 | July 8, 2025 | Begin implementation phase using TensorFlow and subset fingerprint data.    |
+| 🧪 **Testing & Validation**      | July 9, 2025 | July 18, 2025| Test the model, validate accuracy, and fine-tune hyperparameters.           |
+| 📝 **Documentation**             | July 19, 2025| July 25, 2025| Write final documentation and prepare for submission or deployment.         |
+
 
 ---
 
