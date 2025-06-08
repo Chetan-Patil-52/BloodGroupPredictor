@@ -27,17 +27,18 @@
 ### Prototype
 - Datast - https://www.kaggle.com/datasets/ruizgara/socofing
 
-## To-Do List
+## 🗓️ To-Do List (Updated)
 
 | Task                          | Due Date      |
 |-------------------------------|---------------|
-| Complete initial research phase | March 31, 2025 |
-| Gather and preprocess data     | April 15, 2025 |
-| Finalize algorithm approach    | April 30, 2025 |
-| Begin implementation           | March 1, 2025  |
-| Complete implementation        | June 1, 2025   |
-| Perform testing & validation   | June 15, 2025  |
-| Write final documentation      | June 30, 2025  |
+| ✅ Complete initial research phase | Completed      |
+| 📂 Gather and preprocess data     | June 12, 2025  |
+| 🧠 Finalize algorithm approach    | June 16, 2025  |
+| 🚀 Begin implementation           | June 8, 2025   |
+| 🛠️ Complete implementation        | July 8, 2025   |
+| 🧪 Perform testing & validation   | July 18, 2025  |
+| 📝 Write final documentation      | July 25, 2025  |
+
 
 ---
 
